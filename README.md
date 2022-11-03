@@ -7,7 +7,7 @@ El presente repositorio contiene además de este Readme, un archivo de extensió
 Asimismo, dentro del archivo de jupyter notebook está contenido el código Python necesario para generar las salidas especificadas solicitadas, por ejemplo, tablas descriptivas con diversos datos de interés, así como diferentes gráficos. 
 
 Específicamente, en el primer apartado, se posee una serie de tablas que contienen información de los DataFrames, destacando la tabla #1 donde se muestran los valores de las fechas, casos acumulados en hombres, en mujeres, en menores de edad, en adultos, adultos mayores y la cantidad de casos nuevos según la fecha.
-Por último un segundo apartado donde se muestran diversos gráficos que detallan su contenido en el archivo .ipynb, además de unas tablas más.
+Por último un segundo apartado donde se muestran diversos gráficos que detallan su contenido en el archivo .ipynb, además de otras tablas.
 
 
 ### Fuente de los datos
