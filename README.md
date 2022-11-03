@@ -14,3 +14,6 @@ Por último, una sección de donde se incluyen los datos georreferenciados, tant
 
 ### NBViewer
 
+El enlace para poder visualizar los productos o gráficos/tablas generados con plotly es el siguiente
+
+[Enlace a NBViewer](https://nbviewer.org/github/David-young99/Tarea02_PrograSIG2022/blob/main/Tarea2.ipynb)
