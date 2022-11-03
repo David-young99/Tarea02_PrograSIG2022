@@ -2,13 +2,12 @@
 
 ### Descripción
 
-En el presente repositorio contiene además de este Readme, un archivo de extensión .ipynb (jupyter notebook), una carpeta que contiene los csv de datos generales y de los datos positivos del ministerio de salud de Costa Rica (más información en la parte de abajo).
-
-Dentro del archivo de jupyter notebook está contenido el programa realizado, dicho programa posee una tabla descriptiva con diversos datos de interés base para ir desarrollando otras partes del programa. 
-
-Como segunda sección, se posee una serie de gráficos que muestran la cantidad de los casos positivos por día, evolución de los casos por sexo acumulados, evolución de los casos positivos acumulados en menores de edad.
-
-Por último, una sección de donde se incluyen los datos georreferenciados, tanto en tabla como en gráfico con relación a los casos COVID registrados por parte del ministerio de salud.
+El presente repositorio contiene además de este Readme, un archivo de extensión .ipynb (jupyter notebook), una carpeta que contiene los archivos .csv de datos generales y de los datos positivos provenientes del Ministerio de Salud de Costa Rica.
+Asimismo, dentro del archivo de jupyter notebook está contenido el código Python necesario para generar las salidas especificadas solicitadas, por ejemplo, tablas descriptivas con diversos datos de interés, así como diferentes gráficos. 
+Específicamente, en el primer apartado, se posee una serie de tablas que contienen información de los DataFrames, destacando la tabla #1 donde se muestran los valores de las fechas, casos acumulados en hombres, en mujeres, en menores de edad, en adultos, adultos mayores y la cantidad de casos nuevos según la fecha.
+Por último un segundo apartado donde se muestran diversos gráficos que detallan su contenido en el archivo .ipynb, además de unas tablas más.
+Fuente de los datos
+El Ministerio de Salud de Costa Rica como Rector de Salud coloca a disposición de la población nacional e internacional  información referente a la situación Nacional COVID-19 por semana epidemiológica desde el 30 de mayo del 2020 al 30 de mayo del 2022. Dicha información está disponible en https://oges.ministeriodesalud.go.cr/. 
 
 ### Fuente de los datos
 
